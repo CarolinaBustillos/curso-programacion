@@ -12,4 +12,4 @@ Para utilizar el script de organización de carpetas, diríjase  al directorio .
 python3 scriptCarpetas.py
 """
 > [!TIP]
-> Si se enun sistema Windows, utilice "py" en lugar de "phyton3"
+> Si se encuentra en un sistema Windows, utilice "py" en lugar de "phyton3"
