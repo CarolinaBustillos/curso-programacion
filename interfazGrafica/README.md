@@ -20,5 +20,8 @@ py calculadora.py
 ## Demostración de ejecución 
 
 <p align="center">
-  <img width="500" src=“./images/nombreImagen.png">
+  <img width="500" src="./images/nombreImagen.png">
 </p>
+
+![alt text](<Captura de pantalla 2024-10-09 213934.png>)
+![alt text](<Captura de pantalla 2024-10-09 213945.png>)
